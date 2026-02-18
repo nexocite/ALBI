@@ -1,0 +1,7 @@
+{
+  "name": "ALBI - Albany Living Behavioral Intelligence",
+  "description": "A sovereign urban companion for Downtown Albany designed to increase dwell time and local spending through hyper-contextual AI guidance, cultural discovery, and a marketplace for local human Champions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
